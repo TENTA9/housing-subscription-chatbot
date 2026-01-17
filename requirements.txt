@@ -1,0 +1,16 @@
+kiwipiepy
+konlpy
+langchain-teddynote
+pdfplumber
+langchain-openai
+faiss-cpu
+langchain-community
+openai==1.55.3
+httpx==0.27.2
+langchain
+langchain-core
+langchain-text-splitters
+transformers
+torch
+tqdm
+python-dotenv
